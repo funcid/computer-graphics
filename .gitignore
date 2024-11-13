@@ -37,6 +37,7 @@ ENV/
 # Project specific
 temp/
 *.pdf
+!computer_graphics_report.pdf
 *.png
 *.jpg
 *.jpeg
